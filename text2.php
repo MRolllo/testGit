@@ -1,3 +1,4 @@
 <?php
-    echo"eieiei huk nid";
+    echo"khuay";
+    echo"hello world";
 ?>
