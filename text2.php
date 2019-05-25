@@ -1,4 +1,4 @@
 <?php
-    echo"khuay ii";
+    echo"khuay iiasdasdasdasd";
     echo"hello world";
 ?>
